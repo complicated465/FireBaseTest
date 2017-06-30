@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireBaseTest</string>
+    <string name="auth_failed">auth failed</string>
+    <string name="facebook_app_id"></string>
+    <string name="fb_login_protocol_scheme"></string>
+    <string name="login">login</string>
+    <string name="logout">logout</string>
+</resources>
